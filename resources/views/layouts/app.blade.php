@@ -8,14 +8,6 @@
     </head>
     <body>
 	<div class="container-fluid mt-5">	
-		<div class="row" >
-			<div class="col-4">
-			
-			</div>
-			<div class="col-8">
-				@yield ('breadcrumbs')
-			</div>
-		</div>
 		<div class="row">
 			<div class="col-4">
 			@yield ('side')
